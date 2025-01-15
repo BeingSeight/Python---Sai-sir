@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+print("Hello", name, "!")
+print("Konichawa", name, "!")
+print("Hola", name, "!")
+print("Bonjour", name, "!")
